@@ -1,0 +1,12 @@
+body{
+    font-family:fantasy;
+}
+
+h2 {
+    color:rgba(255, 255, 255, 0.9);
+    background-color:rgb(255, 149, 123, 0.9);
+    font-family: cursive;
+}
+h1 {
+    font-family: cursive;
+}
